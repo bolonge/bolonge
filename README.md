@@ -5,34 +5,28 @@
 </p>
 
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolonge&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolonge&layout=compact&hide_border=true&theme=white)
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bolonge&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bolonge&repo=convoychat" />
-</a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolonge&layout=compact&hide_border=true&theme=gotham) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolonge&include_all_commits=true&count_private=true&show_icons=true&theme=gotham)
 
 
 ## Platforms & Languages
 <p>
   <br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <br>
-     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+     <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <br>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-squaree&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 </div>
 </div>
