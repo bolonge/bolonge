@@ -4,8 +4,9 @@
   <a href="qhsghd5357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qhsghd5357@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolonge&layout=compact&hide_border=true&theme=gotham) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolonge&include_all_commits=true&count_private=true&show_icons=true&theme=gotham)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bolonge&theme=gotham" alt="bolonge" /></p>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolonge&layout=compact&hide_border=true&theme=gotham) 
 
 
 ## Platforms & Languages
@@ -28,5 +29,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-squaree&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
+  
+
+
 </div>
 </div>
