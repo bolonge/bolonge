@@ -4,10 +4,6 @@
   <a href="qhsghd5357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qhsghd5357@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bolonge&theme=gotham" alt="bolonge" /></p>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolonge&layout=compact&hide_border=true&theme=gotham) 
-
 
 ## Platforms & Languages
 <p>
